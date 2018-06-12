@@ -7,4 +7,5 @@ function areValidCredentials(name, password) {
     }else{
       return false;
     }
+    
   }
